@@ -1,0 +1,38 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore all compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.swp
+*~
+*.bak
+
+# Ignore all images in the 'images' folder
+Images/*
+
+# Ignore the specific file keras model
+traffic_sign_model.keras
+
+# Ignore Python-specific files (if your project contains Python code)
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore other OS-specific files
+.DS_Store
+Thumbs.db
