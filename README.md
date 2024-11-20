@@ -5,6 +5,7 @@ This project involves developing a Traffic Sign Detection and Recognition system
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Disclaimer](#disclaimer)
 - [Features](#features)
 - [Installation](#installation)
 - [Downloading GTSRB Dataset](#downloading-gtsrb-dataset)
@@ -14,6 +15,10 @@ This project involves developing a Traffic Sign Detection and Recognition system
 ## Introduction
 
 Traffic Sign Recognizer is a project aimed at detecting and recognizing traffic signs using deep learning techniques. This system interprets traffic signs in real-time, enhancing the safety and efficiency of autonomous vehicles and driver assistance systems.
+
+## Disclaimer
+
+At this time detection for signs like unlimited is not as precise, but all other signs could be detected.
 
 ## Features
 
